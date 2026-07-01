@@ -35,11 +35,11 @@ An identity platform exploring modern authentication and cryptographic identity 
 A secure API gateway implementing authentication, authorization, request validation, and API protection mechanisms.
 
 **Focus**
-- JWT Authentication
-- OAuth 2.0
-- Rate Limiting
-- API Access Control
-- Security Middleware
+- Bearer-token Authentication
+- IDOR / Broken-Object-Level-Authorization protection
+- Rate Limiting & automatic IP blocking
+- Request logging & security alerting
+- Security Middleware chain
 
 ---
 
