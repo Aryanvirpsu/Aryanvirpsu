@@ -1,27 +1,103 @@
-# Aryan Vir
+# Hi, I'm Aryan Vir 👋
 
-Cybersecurity and AI systems student interested in agentic security, identity, automation, and practical security tooling.
+Cybersecurity student at **Penn State University** focused on building secure systems at the intersection of **Identity**, **API Security**, **AI Security**, and **Applied Cryptography**.
 
-I build projects around:
-- AI agents and security automation
-- Identity and access systems
-- Bug bounty / recon workflows
-- Full-stack security dashboards
-- Network and static analysis tools
+I'm interested in designing security infrastructure that is secure by default, practical to deploy, and built for the next generation of software—including autonomous AI systems.
 
-## Featured Work
-
-### Homelander OS / Bounty OS
-Agentic bug bounty operating layer for recon, logging, screenshots, workspace memory, and reproducible security reports.
-
-### Crypton
-Identity layer for humans and AI agents focused on passkeys, device trust, action logging, and verifiable agent behavior.
-
-### Travel Safety AI Planner
-LLM + LangGraph workflow using structured JSON outputs, Pydantic validation, MCP tools, and conditional branching.
-
-## Tech
-Python, FastAPI, React, Tauri, LangGraph, MCP, SQL, Linux, Burp Suite, Wireshark, Packet Tracer.
+---
 
 ## Current Focus
-Building security tooling that makes AI agents safer, auditable, and useful in real workflows.
+
+- 🔐 Identity & Authentication
+- 🌐 API Security
+- 🤖 AI & LLM Security
+- 🔑 Applied Cryptography
+- 🛡️ Secure Software Engineering
+
+---
+
+## Featured Projects
+
+### 🔐 Crypton
+An identity platform exploring modern authentication and cryptographic identity for humans and AI agents.
+
+**Areas of exploration**
+- Passkeys & WebAuthn
+- Cryptographic Identity
+- Agent Identity
+- Secure Authentication
+- Authorization
+- Trust & Verification
+
+---
+
+### 🌐 APISecGateway
+A secure API gateway implementing authentication, authorization, request validation, and API protection mechanisms.
+
+**Focus**
+- JWT Authentication
+- OAuth 2.0
+- Rate Limiting
+- API Access Control
+- Security Middleware
+
+---
+
+### 🤖 LLM Security Lab
+Research and experimentation around securing Large Language Models and AI agents.
+
+**Topics**
+- Prompt Injection
+- Jailbreak Detection
+- Secure Prompting
+- AI Agent Security
+- MCP Security
+- LLM Evaluation
+
+---
+
+## Technical Interests
+
+- API Security
+- Identity Systems
+- OAuth 2.0 / OpenID Connect
+- Passkeys & WebAuthn
+- PKI
+- Zero Trust
+- Applied Cryptography
+- AI Security
+- Secure System Design
+
+---
+
+## Technologies
+
+**Languages**
+
+Python • Go • JavaScript • SQL • Bash
+
+**Security**
+
+Burp Suite • Wireshark • Linux • OWASP
+
+**Development**
+
+Git • FastAPI • React • LangGraph
+
+---
+
+## Currently Learning
+
+- Distributed Identity
+- Secure Agent Architectures
+- Advanced Cryptography
+- Modern Authentication Protocols
+- Cloud Security
+
+---
+
+## Connect
+
+📫 LinkedIn: *www.linkedin.com/in/aryan-vir-067685211*
+
+💻 GitHub: https://github.com/Aryanvirpsu
