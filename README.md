@@ -1,16 +1,27 @@
-## Hi there 👋
+# Aryan Vir
 
-<!--
-**Aryanvirpsu/Aryanvirpsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity and AI systems student interested in agentic security, identity, automation, and practical security tooling.
 
-Here are some ideas to get you started:
+I build projects around:
+- AI agents and security automation
+- Identity and access systems
+- Bug bounty / recon workflows
+- Full-stack security dashboards
+- Network and static analysis tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Work
+
+### Homelander OS / Bounty OS
+Agentic bug bounty operating layer for recon, logging, screenshots, workspace memory, and reproducible security reports.
+
+### Crypton
+Identity layer for humans and AI agents focused on passkeys, device trust, action logging, and verifiable agent behavior.
+
+### Travel Safety AI Planner
+LLM + LangGraph workflow using structured JSON outputs, Pydantic validation, MCP tools, and conditional branching.
+
+## Tech
+Python, FastAPI, React, Tauri, LangGraph, MCP, SQL, Linux, Burp Suite, Wireshark, Packet Tracer.
+
+## Current Focus
+Building security tooling that makes AI agents safer, auditable, and useful in real workflows.
